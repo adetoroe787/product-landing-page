@@ -32,3 +32,30 @@
 #get-started > div:nth-child(3) > button{
     background-color: darkorange;
 }
+
+#premium, #fast-shipping, #quality-assurance {
+    padding-left: 420px;
+    text-align: left;
+    padding-bottom: 50px;
+}
+
+#feature {
+    margin-top: 40px;
+}
+
+#premium, #fast-shipping, #quality-assurance, h3 {
+    font-size: xx-large;
+}
+#premium, #fast-shipping, #quality-assurance, p {
+    font-size: 20px;
+}
+
+#how-it-works{
+    display: flex;
+    justify-content: center;
+}
+
+.image-icon {
+    width: 80px;
+    height: 80px;
+}
