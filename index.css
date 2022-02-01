@@ -9,8 +9,26 @@
     font-size: 15px;
     width: auto;
 }
-
 .nav-link{
     font-size: 16px;
     width: auto;
+}
+#get-started{
+    text-align: center;
+    padding-top: 5em;
+}
+.container{
+    display: block;
+}
+.header{
+    font-size: 2em;
+    margin: .6em;
+}
+#email{
+    width: 16em;
+    margin: .6em;
+    padding-left: 10px;
+}
+#get-started > div:nth-child(3) > button{
+    background-color: darkorange;
 }
